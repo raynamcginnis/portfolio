@@ -1,4 +1,4 @@
-# Portfolio for Rayna McGinnis Photography
+# Portfolio for Rayna McGinnis 
 
 ### General Info
 This is a fully responsive, visually appealing portfolio website build using a customized Bootstrap template.
